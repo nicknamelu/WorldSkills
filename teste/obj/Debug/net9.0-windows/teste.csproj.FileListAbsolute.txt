@@ -1,0 +1,16 @@
+C:\Users\danilo\source\repos\teste\bin\Debug\net9.0-windows\teste.exe
+C:\Users\danilo\source\repos\teste\bin\Debug\net9.0-windows\teste.deps.json
+C:\Users\danilo\source\repos\teste\bin\Debug\net9.0-windows\teste.runtimeconfig.json
+C:\Users\danilo\source\repos\teste\bin\Debug\net9.0-windows\teste.dll
+C:\Users\danilo\source\repos\teste\bin\Debug\net9.0-windows\teste.pdb
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.Form1.resources
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.csproj.GenerateResource.cache
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.AssemblyInfoInputs.cache
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.AssemblyInfo.cs
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.csproj.CoreCompileInputs.cache
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.dll
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\refint\teste.dll
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.pdb
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\teste.genruntimeconfig.cache
+C:\Users\danilo\source\repos\teste\obj\Debug\net9.0-windows\ref\teste.dll
