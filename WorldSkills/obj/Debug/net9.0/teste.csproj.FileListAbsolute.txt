@@ -1,0 +1,14 @@
+C:\Users\danilo\Documents\teste\bin\Debug\net9.0\teste.exe
+C:\Users\danilo\Documents\teste\bin\Debug\net9.0\teste.deps.json
+C:\Users\danilo\Documents\teste\bin\Debug\net9.0\teste.runtimeconfig.json
+C:\Users\danilo\Documents\teste\bin\Debug\net9.0\teste.dll
+C:\Users\danilo\Documents\teste\bin\Debug\net9.0\teste.pdb
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.AssemblyInfoInputs.cache
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.AssemblyInfo.cs
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.dll
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\refint\teste.dll
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.pdb
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\teste.genruntimeconfig.cache
+C:\Users\danilo\Documents\teste\obj\Debug\net9.0\ref\teste.dll
